@@ -1,0 +1,4 @@
+"AadClientId": "0a1e318d-5379-41f3-b624-fac3740286ae",
+"AadSecret": "ikc8Q~NYIt~GhMtXnhAv1cZkQvhgtUI_barv~blZ",
+"AadTenantDomain": "interflorafrance.onmicrosoft.com",
+"AadTenantId": "ae228da7-1ce3-40d8-9cad-6324f71f9b1c",
